@@ -18,9 +18,9 @@
 //  const str = new String('Priyanshu Pandey');
 //  const string = new String('Priynshu Pandey');
 //  console.log(str.slice(1,3)); // part of the string
-
-// let str = ["P", "r", "i", "y", "a", "n"];  ... an array to be learn
- console.log(str.splice(1,3)); // splice is work for array not string
+// let str ="Priyanshu";
+// let str = ["P", "r", "i", "y", "a", "n"];  //... an array to be learn
+//  console.log(str.splice(1,3)); // splice is work for array not string
 
 
 // console.log(str .concat(string)); // string concatinate
