@@ -1,0 +1,23 @@
+h2 {
+    color: blueviolet;
+    background-color: aqua;
+}
+
+p {
+    font: bold;
+
+}
+
+button {
+    color: white;
+    background-color: blue;
+}
+
+body {
+    background: pink;
+}
+
+.box {
+    width: 20%;
+    background: green;
+}
